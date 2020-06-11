@@ -1,6 +1,8 @@
 # Seed Quickstart
 
 > Basic Rust-only template for your new Seed app.
+> With Seed Hooks.
+> Primary hook function is `let count = use_state(||0)`.
 
 ## 1. Create a new project
 
